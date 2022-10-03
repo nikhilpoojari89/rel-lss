@@ -28,7 +28,7 @@ gulp.task('js', function () {
 gulp.task('serve', gulp.series('styles','js', function () {
 
   browserSync.init({
-    proxy: 'localhost/rel-career/',
+    proxy: 'localhost/rel-lss/',
   });
 
   gulp.watch('./assets/sass/**/*.scss', gulp.series('styles')).on('change', reload);
