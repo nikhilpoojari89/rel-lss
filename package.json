@@ -1,7 +1,7 @@
 {
-  "name": "rel-career",
+  "name": "rel-lss",
   "version": "1.0.0",
-  "description": "rel-career",
+  "description": "rel-lss",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikhilpoojari89/rel-career"
+    "url": "git+https://github.com/nikhilpoojari89/rel-lss"
   },
-  "author": "rel-career",
-  "license": "rel-career",
+  "author": "rel-lss",
+  "license": "rel-lss",
   "devDependencies": {
     "bootstrap": "^4.5.3",
     "browser-sync": "^2.26.13",
@@ -27,7 +27,7 @@
     "popper.js": "^1.16.1"
   },
   "bugs": {
-    "url": "https://github.com/nikhilpoojari89/rel-career/issues"
+    "url": "https://github.com/nikhilpoojari89/rel-lss/issues"
   },
-  "homepage": "https://github.com/nikhilpoojari89/rel-career#readme"
+  "homepage": "https://github.com/nikhilpoojari89/rel-lss#readme"
 }
