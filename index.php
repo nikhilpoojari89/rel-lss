@@ -7,8 +7,8 @@
         <div class="row justify-content-between mx-3">
             <div class="col-lg-7 col-xl-6 left-section">
                 <div class="form-card py-5">
-                    <h1 class="text-primary vag-r-bold font-weight-bold mb-0 letter-spacing-1 font-64">Reliance Nippon <br class="d-none d-lg-block"/> Life Super Suraksha</h1>
-                    <span class="text-primary vag-r-thin font-12 letter-spacing-05 font-smooth">A Non-Linked, Non-Participating, Individual, Pure Risk Premium/Savings, Life Insurance Plan</span>
+                    <h1 class="text-primary main-title vag-r-bold font-weight-bold mb-0 letter-spacing-1 font-64">Reliance Nippon <br class="d-none d-lg-block"/> Life Super Suraksha</h1>
+                    <span class="text-primary main-sub-title vag-r-thin font-12 letter-spacing-05 font-smooth">A Non-Linked, Non-Participating, Individual, Pure Risk Premium/Savings, Life Insurance Plan</span>
                     <div class="text-center mt-4">
                         <img src="./public/images/png/shield.png" class="img-fluid" alt="Shield" width="250" title="Shield" />
                     </div>
@@ -19,15 +19,15 @@
                     
                     <form>
                         <div class="form-row">
-                            <div class="form-group col-md-6">
+                            <div class="form-group col-sm-6">
                                 <label class="vag-r-bold text-primary font-20" for="inputName">Name</label>
                                 <input type="text" class="form-control" id="inputName">
                             </div>
-                            <div class="form-group col-md-6">
+                            <div class="form-group col-sm-6">
                                 <label class="vag-r-bold text-primary font-20" for="inputMobile">Mobile Number</label>
                                 <input type="text" class="form-control" id="inputMobile">
                             </div>
-                            <div class="form-group col-md-6">
+                            <div class="form-group col-sm-6">
                                 <label class="vag-r-bold text-primary font-20" for="inputGender">Gender</label>
                                 <select id="inputGender" class="form-control">
                                     <option selected>Please Select</option>
@@ -36,18 +36,18 @@
                                     <option>Other</option>
                                 </select>
                             </div>
-                            <div class="form-group col-md-6">
+                            <div class="form-group col-sm-6">
                                 <label class="vag-r-bold text-primary font-20" for="inputState">State</label>
                                 <select id="inputState" class="form-control">
                                     <option selected>Please Select</option>
                                     <option>Maharashtra</option>
                                 </select>
                             </div>
-                            <div class="form-group col-md-6">
+                            <div class="form-group col-sm-6">
                                 <label class="vag-r-bold text-primary font-20" for="inputEmail">Email</label>
                                 <input type="email" class="form-control" id="inputEmail">
                             </div>
-                            <div class="form-group col-md-6">
+                            <div class="form-group col-sm-6">
                                 <label class="vag-r-bold text-primary font-20" for="inputCity">City</label>
                                 <input type="text" class="form-control" id="inputCity">
                             </div>

@@ -23,6 +23,22 @@ body {
 	background-image: url('../../public/images/png/top-banner.png');
 	background-repeat: no-repeat;
     background-size: cover;
+	.main-title {
+		@include media-breakpoint-only(md) {
+			font-size: 3rem!important;
+		}
+		@include media-breakpoint-only(sm) {
+			font-size: 2.5rem!important;
+		}
+		@include media-breakpoint-down(xs) {
+			font-size: 2rem!important;
+		}
+	}
+	.main-sub-title {
+		@include media-breakpoint-down(xs) {
+			font-size: 0.75rem!important;
+		}
+	}
 }
 
 .custom-top-padding {
