@@ -75,7 +75,7 @@
     <div class="container-fluid">
         <div class="row justify-content-start">
 
-            <div class="col-12" id="job_app_tab">
+            <div class="col-12">
                 <div class="row custom-nav-tabs-section">
 
                     <div class="col-12">
@@ -169,6 +169,18 @@
                 </div>
             </div>
 
+        </div>
+    </div>
+</section>
+
+
+<!--********************** Why Reliance Insurance Section ***********************-->
+<section>
+    <div class="container-fluid px-0">
+        <div class="row">
+            <div class="col-12">
+                <img src="./public/images/png/why-reliance-insurance.png" class="img-fluid" alt="Why Reliance Insurance?">
+            </div>
         </div>
     </div>
 </section>
